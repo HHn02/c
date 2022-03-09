@@ -72,7 +72,7 @@ int kmp(const string &s,const string &t,const vector<int>& pre ){
     int m = t.size();
     for(int i = 0,j = 0;i < n;++i){
         while(j>0&&s[i]!=t[j])
-            j=pre[j];
+            j=pre[j-1];
         if(s[i]==t[j])
             ++j;
         if(j==m)

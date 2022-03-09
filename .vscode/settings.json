@@ -9,6 +9,7 @@
         "utility": "cpp",
         "map": "cpp",
         "functional": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "cstdio": "cpp"
     }
 }
