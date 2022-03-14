@@ -10,6 +10,8 @@
         "map": "cpp",
         "functional": "cpp",
         "vector": "cpp",
-        "cstdio": "cpp"
+        "cstdio": "cpp",
+        "new": "cpp",
+        "ostream": "cpp"
     }
 }
