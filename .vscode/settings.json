@@ -12,6 +12,9 @@
         "vector": "cpp",
         "cstdio": "cpp",
         "new": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "ios": "cpp",
+        "numeric": "cpp",
+        "algorithm": "cpp"
     }
 }
